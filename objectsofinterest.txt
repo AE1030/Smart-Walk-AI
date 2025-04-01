@@ -1,0 +1,30 @@
+person
+bicycle
+car
+motorcycle
+bus
+train
+truck
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+horse
+backpack
+umbrella
+handbag
+suitcase
+sports ball
+bottle
+banana
+apple
+chair
+couch
+potted plant
+dining table
+refrigerator
+vase
